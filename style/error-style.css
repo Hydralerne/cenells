@@ -1,0 +1,132 @@
+* {padding: 0;margin: 0;outline: none;list-style: none;user-select: none;}
+body {
+    background-image: url("../img/bg/lab_error");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: color;
+    background-position: 0% 100%;
+    background-attachment: fixed;
+}
+.top_desct {width: 100%;text-align: center;margin-top: 75px;}
+
+span.description {
+    color: rgba(255, 255, 255, .8);
+    font-size: 35px;
+    font-family: Droid Arabic Kufi;
+}
+.top_desct p {
+    color: rgb(212, 217, 210);
+    font-family: LatoWeb;
+    font-size: 100px;
+    margin-top: 25px;
+}
+
+.top_desct p a {
+    color: #b1b091!important;
+}
+.center_main {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.center_main a button {
+    width: 300px;
+    height: 55px;
+    border: 4px solid rgba(255, 255, 255, .75);
+    background: rgba(0, 0, 0, .25);
+    color: #fff;
+    font-family: href;
+    font-size: 15px;
+    padding-bottom: 4px;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.center_main a button:hover {
+    background: rgba(0, 0, 0, .4);
+}
+
+.ordivfun {margin-top: 20px;margin-bottom: 20px;}
+
+.ordivfun p {
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.ordivfun span {
+    position: absolute;
+    width: 125px;
+    height: 2px;
+    background: #fff;
+}
+
+span.left {
+    margin-left: 25px;
+    margin-top: 7px;
+}
+
+span.right {
+    margin-top: -11px;
+    margin-left: -150px;
+}
+.bottom-tawdih {
+    width: 100%;
+    text-align: center;
+}
+
+svg.svgsearch {
+    display: none;
+}
+
+span {}
+
+.bottom-tawdih span {
+    position: absolute;
+    color: #fff;
+    font-family: Droid Arabic Kufi;
+    font-size: 20px;
+    width: 100%;
+    left: 0;
+    margin-top: 50px;
+}
+
+.search_bottom {width: 100%;text-align: center;}
+
+input.serch_input {
+    width: 500px;
+    padding-right: 20px;
+    padding-left: 20px;
+    height: 45px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    background: rgba(255, 255, 255, .25);
+    border: none;
+    border-radius: 100px;
+    margin-top: 28px;
+    color: #fff;
+    font-family: Droid Arabic Kufi,sans-serif;
+}
+
+.inliner_search {
+    position: absolute;
+    height: 100px;
+    background: rgba(0, 0, 0, .5);
+    width: 600px;
+    border-radius: 5px;
+    margin-top: 119px;
+    margin-left: 250px;
+}
+
+.container {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+
+
+input.serch_input::-webkit-input-placeholder {
+    text-align: center;
+    font-size: 14px
+}

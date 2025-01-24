@@ -1,0 +1,767 @@
+img.smlimg_settings {width: 50px;height: 50px;position: absolute;border-radius: 100%;}
+
+.top_description_7070 {
+    margin-top: 125px;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    margin-left: -310px;
+}
+
+.bottom_poprtio_set {
+    position: absolute;
+}
+
+.top_description_7070 span {
+    font-family: Droid Arabic Kufi,sans-serif;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 60px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    margin-left: 20px;
+    direction: rtl;
+    color: #95a5a6;
+}
+
+.bottom_poprtio_set {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+
+.bottom_poprtio_set p {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+    font-family: Droid Arabic Kufi;
+    font-size: 22px;
+    color: #999;
+    margin-left: 10px;
+}
+
+.bottom_poprtio_set p:last-child {
+    margin-top: 140px;
+}
+
+html {}
+
+.first_column_7070 {
+    position: absolute;
+}
+
+.secound_column_7070 {
+    position: absolute;
+}
+
+.third_column_7070 {
+    position: absolute;
+}
+
+.first_column_7070, .secound_column_7070,.third_column_7070 {
+    width: 350px;
+    height: 400px;
+    background: #fff;
+    margin-top: 400px;
+    box-shadow: 0px 0px 10px 0px #cecece;
+    transition: .3s ease;
+}
+
+.minmax_ofsseting_svg {width: 35px;}
+
+.column_settings_main {
+}
+
+.first_column_7070 {
+    margin-left: 950px;
+}
+
+.secound_column_7070 {
+    margin-left: 500px;
+}
+
+.third_column_7070 {
+    margin-left: 50px;
+}
+
+.first_column_7070 span, .secound_column_7070 span, .third_column_7070 span {font-family: Droid arabic Naskh;color: #555;font-size: 18px;width: 285px;text-align: right;position: absolute;padding-right: 65px;}
+
+svg.right_more_settings {
+    width: 35px;
+    transform: rotate(90deg);
+    margin-left: 10px;
+    fill: #888;
+}
+
+.topfirst_column_7070 {
+    margin-top: 8px;
+    height: 45px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+}
+
+.topfirst_column_7070 .minmax_ofsseting_svg {
+    right: 0;
+    position: absolute;
+    margin-right: 15px;
+    fill: #888;
+}
+
+.secound_column_7070 span {
+    padding-right: 52px!important;
+    width: 298px;
+}
+
+.topsec_column_svg {
+    margin-top: 8px;
+    height: 45px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+}
+
+.secound_column_7070 .minmax_ofsseting_svg {
+    right: 0;
+    position: absolute;
+    margin-right: 10px;
+    fill: #888;
+}
+
+.topthird_column_7070 {
+    margin-top: 8px;
+    height: 45px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+}
+
+.third_column_7070 .minmax_ofsseting_svg {
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    fill: #888;
+}
+.first_column_7070:hover , .secound_column_7070:hover , .third_column_7070:hover {
+box-shadow: 0px 0px 20px 0px #cecece;
+}
+.settings_footer_7070 {
+    position: absolute;
+    margin-top: 910px;
+    margin-left: 528px;
+}
+.text_main_all_7070 {
+    position: absolute;
+    width: 300px;
+    margin-top: 940px;
+}
+.text_main_all_7070 span {
+    font-family: Tahoma;
+    color: #999;
+    border-top: 1px solid #ddd;
+    padding: 10px;
+}
+
+.loginformain_ofstr h3 {
+    font-family: Droid Arabic Kufi;
+    font-weight: normal;
+    font-size: 15px;
+    direction: rtl;
+    text-align: right;
+    position: absolute;
+    margin-left: -23px;
+    margin-top: 10px;
+    color: #7f8c8d;
+    width: 100%;
+}
+
+.loginformain_ofstr p {position: absolute;font-family: href;width: 100%;text-align: right;font-size: 14px;margin-left: -25px;color: #bdc3c7;}
+
+.secrite_offsertm {position: absolute;width: 100%;margin-top: 145px;height: 130px;border-bottom: 1px solid #eee;}
+
+
+
+p.first_p_7070 {
+    margin-top: 45px;
+}
+
+p.second_p_7070 {
+    margin-top: 68px;
+}
+
+p.third_p_7070 {
+    margin-top: 92px;
+}
+
+.loginformain_ofstr {
+    position: absolute;
+    width: 100%;
+    height: 130px;
+    border-bottom: 1px solid #eee;
+    margin-top: 10px;
+}
+
+.secrite_offsertm h3 {position: absolute;font-family: Droid Arabic Kufi;font-weight: normal;font-size: 15px;direction: rtl;text-align: right;margin-left: -23px;margin-top: 10px;color: #7f8c8d;width: 100%;}
+
+.secrite_offsertm p {position: absolute;font-family: href;width: 100%;text-align: right;font-size: 14px;margin-left: -25px;color: #bdc3c7;}
+
+p.firstbot_7070 {
+    margin-top: 45px;
+}
+
+p.secondbot_7070 {
+    margin-top: 68px;
+}
+
+p.lastbot_7070 {
+    margin-top: 92px;
+}
+.morediscrip_7070_setings {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 55px;
+    width: 100%;
+}
+
+.morediscrip_7070_setings h5 {
+    font-family: Droid Arabic Kufi;
+    font-weight: normal;
+    font-size: 15px;
+    color: #34495e;
+    opacity: .75;
+    right: 0;
+    position: absolute;
+    margin-right: 25px;
+}
+.topoiyuuyyr {
+    margin-bottom: 190px!important;
+}
+.welcomepage_secrite {
+    margin-left: 25px;
+    transition: .5s;
+    position: absolute;
+    width: 100%;
+}
+
+.longin_after_access {
+    width: 800px;
+    height: 600px;
+    background: #fff;
+    margin-top: 200px;
+    margin-left: 200px;
+    box-shadow: 0px 0px 5px 0px #ddd;
+    border-radius: 10px;
+}
+
+.topform_info_5501 {
+}
+
+.description_5501 {
+    position: absolute;
+    width: 800px;
+    margin-top: 35px;
+}
+
+.description_5501 span {
+    position: absolute;
+    font-family: Droid Arabic Kufi;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    color: #7f8c8d;
+}
+
+img.form_img_5501 {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+    margin-left: 140px;
+    margin-top: 35px;
+}
+
+.insetform_5501 {
+    position: absolute;
+    width: 350px;
+    height: 375px;
+    background: #f5f5f5;
+    border-radius: 5px;
+    margin-left: 225px;
+    margin-top: 125px;
+    box-shadow: 0px 2px 2px #bbb;
+}
+
+.topform_info_5501 span {width: 300px;position: absolute;text-align: center;font-family: href,sans-serif;font-weight: bold;font-size: 16px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;margin-left: 25px;margin-top: 125px;color: #34495e;}
+
+.topform_info_5501 p {position: absolute;width: 100%;text-align: center;font-family: tahoma;margin-top: 150px;color: #95a5a6;}
+
+button.submit_setlog_5501 {position: absolute;width: 270px;height: 45px;font-family: Droid Arabic Kufi;font-size: 15px;background: #3498db;color: #fff;border: none;margin-left: 40px;cursor: pointer;border-radius: 100px;margin-top: 275px;}
+
+input.settings_logpass_5501 {
+    position: absolute;
+    margin-left: 38px;
+    margin-top: 210px;
+    width: 240px;
+    height: 25px;
+    padding: 10px;
+    padding-right: 20px;
+    font-size: 15px;
+    text-align: right;
+    font-family: Droid Arabic Naskh,sans-serif;
+    border: 2px solid #ddd;
+    background: #fff;
+    border-radius: 100px;
+}
+.pagemain_security {
+    display: none;
+    transition: .5s;
+    margin-left: 100%;
+}
+a.close_secrit_5505 {
+    position: absolute;
+    margin-left: 760px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: #bbb;
+    cursor: pointer;
+}
+button.submit_setlog_5501:disabled {
+    opacity: .5;
+    cursor: default;
+}
+
+button.submit_setlog_5501:hover {
+    background: #2980b9;
+}
+
+.loginerror_5501 {
+    width: 800px;
+    margin-top: 530px;
+    position: absolute;
+    text-align: center;
+}
+
+.insetloginerror {
+    position: absolute;
+    width: 100%;
+}
+
+.insetloginerror p {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-family: href;
+    color: #d62e2e;
+    opacity: .75;
+}
+.all_secritemessage_5501 {
+    position: absolute;
+    background: #fff;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+.baramater_main_5501 {
+    position: absolute;
+    width: 950px;
+    height: 100%;
+    transition: 0.5s;
+    z-index: 9;
+}
+.this_rightmenu_5501 {
+    position: absolute;
+    right: 0;
+    width: 300px;
+    height: 100%;
+    border-left: 1px solid #ddd;
+	z-index: 9999999;
+	background: #fff;
+	overflow: hidden;
+}
+.topdescrip_5501 {
+    position: absolute;
+    margin-top: 125px;
+    margin-left: 675px;
+}
+
+.topdescrip_5501 img {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-top: -10px;
+}
+.noborder_5501 span {
+    border-top: none!important;
+    width: 100%
+}
+.noborder_5501 {
+    position: absolute;
+    width: 300px;
+    margin-top: -10px;
+}
+.topdescrip_5501 p {
+    position: absolute;
+    width: 210px;
+    font-family: Droid Arabic Kufi;
+    font-size: 20px;
+    color: #999;
+    margin-left: -80px;
+    margin-top: 50px;
+}
+.username_baramate_5501, .password_baramate_5501, .email_baramate_5501,.phone_baramate_5501,.userid_baramate_5501 {
+    position: absolute;
+    right: 0;
+    width: 950px;
+    height: 75px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+}
+
+.username_baramate_5501 span, .password_baramate_5501 span, .email_baramate_5501 span,.phone_baramate_5501 span,.userid_baramate_5501 span {
+    position: absolute;
+    font-family: Droid Arabic Kufi;
+    direction: rtl;
+    right: 0;
+    text-align: right;
+    margin-right: 35px;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #7f8c8d;
+}
+
+.username_baramate_5501 p, .userid_baramate_5501 p, .password_baramate_5501 p, .email_baramate_5501 p,.phone_baramate_5501 p {position: absolute;right: 0;font-family: Tahoma;font-size: 18px;width: 500px;text-align: right;margin-right: 250px;color: #95a5a6;margin-top: 25px;}
+
+.username_baramate_5501 button, .userid_baramate_5501 button, .password_baramate_5501 button, .email_baramate_5501 button,.phone_baramate_5501 button {position: absolute;width: 35px;height: 35px;border-radius: 100%;border: none;cursor: pointer;margin-left: 90px;margin-top: 20px;background: #3498db;opacity: .5;transition: .3s;}
+.relativemian_88776 {
+    margin-top: 75px;
+}
+button.userfolt_edit_5501 svg {
+    position: absolute;
+    width: 22px;
+    margin-top: -12px;
+    margin-left: -12px;
+    fill: #fff;
+}
+.userid_baramate_5501 button {
+    opacity: 0.25!important;
+    cursor: default;
+}
+
+.userid_baramate_5501 {
+    cursor: default;
+}
+
+.userid_baramate_5501 .editas_moresvg_5501 {opacity: 0.5;}
+svg.editas_moresvg_5501 {
+    position: absolute;
+    width: 40px;
+    transform: rotate(90deg);
+    fill: #bbb;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.password_baramate_5501 {
+    margin-top: 75px;
+}
+
+.email_baramate_5501 {
+    margin-top: 150px;
+}
+
+.phone_baramate_5501 {
+    margin-top: 225px;
+}
+.sessionoflos_4525 {
+    width: 100%;
+    height: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    transition: .3s ease;
+}
+
+.sessionoflos_4525 h3 {
+    position: absolute;
+    font-family: href;
+    font-weight: normal;
+    font-size: 18px;
+    direction: rtl;
+    width: 100%;
+    text-align: right;
+    margin-left: -65px;
+    margin-top: 10px;
+    color: #999;
+}
+
+.sessionoflos_4525 svg {
+    width: 35px;
+    position: absolute;
+    right: 0;
+    margin-top: 6px;
+    margin-right: 15px;
+    fill: #aaa;
+}
+
+.sessionoflos_4525:hover {
+    background: #f5f5f5;
+}
+
+.aqsam_menu_4545 {height: 50px;background: #eee;border-top-right-radius: 8px;}
+
+.aqsam_menu_4545 svg {
+    position: absolute;
+    width: 35px;
+    fill: #aaa;
+    margin-left: 90px;
+    margin-top: 5px;
+}
+
+.aqsam_menu_4545 span {
+    position: absolute;
+    margin-left: 140px;
+    font-family: Droid Arabic Kufi;
+    font-size: 18px;
+    color: #888;
+    margin-top: 5px;
+}
+
+.username_change_5501 {
+    position: absolute;
+    margin-top: 325px;
+    width: 950px;
+    margin-left: 100%;
+    transition: 0.5s;
+    display: none;
+}
+.insetoffset_main {position: absolute;width: 1250px;height: 600px;margin-top: 255px;background: #fff;box-shadow: 0px 0px 5px 0px #ddd;border-radius: 10px;overflow: hidden;margin-left: 75px;}
+
+.username_change_5501 span {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    color: #888;
+    font-family: Droid Arabic Kufi;
+    margin-top: -150px;
+}
+
+.username_change_5501 button {position: absolute;width: 285px;height: 45px;font-family: Droid Arabic Kufi;font-size: 15px;background: #3498db;color: #fff;border: none;margin-left: 335px;cursor: pointer;border-radius: 100px;margin-top: 25px;}
+.back {
+    position: absolute;
+    width: 35px;
+    top: 0;
+    right: 0;
+    margin-top: -300px;
+    fill: #bbb;
+    transform: rotate(180deg);
+    margin-right: 35px;
+	cursor: pointer;
+}
+.username_change_5501 input {
+    position: absolute;
+    margin-left: 335px;
+    margin-top: -50px;
+    width: 250px;
+    height: 25px;
+    padding: 10px;
+    padding-right: 20px;
+    font-size: 15px;
+    text-align: right;
+    font-family: Droid Arabic Naskh,sans-serif;
+    border: 2px solid #ddd;
+    background: #fff;
+    border-radius: 100px;
+    }
+.username_change_5501 button:disabled {
+    opacity: .5;
+    cursor: default;
+}
+.username_change_5501 button:hover {
+    background: #2980b9;
+}
+.username_change_5501 p {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-family: tahoma;
+    font-size: 20px;
+    margin-top: -100px;
+    color: #bdc3c7;
+}
+.password_change_5501 {
+    position: absolute;
+    margin-top: 300px;
+    width: 950px;
+    margin-left: 100%;
+    transition: 0.5s;
+    display: none;
+}
+svg.back.password_backtoset {
+    margin-top: -275px!important;
+}
+.password_change_5501 span {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    color: #888;
+    font-family: Droid Arabic Kufi;
+    margin-top: -150px;
+}
+
+.password_change_5501 p {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-family: tahoma;
+    font-size: 20px;
+    margin-top: -100px;
+    color: #bdc3c7;
+}
+
+input.password_textfol {
+    position: absolute;
+    margin-left: 335px;
+    margin-top: -50px;
+    width: 250px;
+    height: 25px;
+    padding: 10px;
+    padding-right: 20px;
+    font-size: 15px;
+    text-align: right;
+    font-family: Droid Arabic Naskh,sans-serif;
+    border: 2px solid #ddd;
+    background: #fff;
+    border-radius: 100px;
+}
+
+input.subpassw_textfol {
+    position: absolute;
+    margin-left: 335px;
+    margin-top: 15px;
+    width: 250px;
+    height: 25px;
+    padding: 10px;
+    padding-right: 20px;
+    font-size: 15px;
+    text-align: right;
+    font-family: Droid Arabic Naskh,sans-serif;
+    border: 2px solid #ddd;
+    background: #fff;
+    border-radius: 100px;
+}
+
+button.subupassbtn_5501 {
+    position: absolute;
+    width: 285px;
+    height: 45px;
+    font-family: Droid Arabic Kufi;
+    font-size: 15px;
+    background: #3498db;
+    color: #fff;
+    border: none;
+    margin-left: 335px;
+    cursor: pointer;
+    border-radius: 100px;
+    margin-top: 80px;
+}
+.email_change_5501 {
+    position: absolute;
+    margin-top: 325px;
+    width: 950px;
+    margin-left: 100%;
+    transition: 0.5s;
+    display: none;
+}
+.getajax_username {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    margin-top: 100px;
+}
+
+.getajax_username h3 {
+    font-family: href;
+    font-weight: normal;
+    font-size: 18px;
+    color: #27ae60;
+    opacity: .75;
+}
+
+.error5 h3 {
+    color: #d62e2e!important;
+}
+.subupassbtn_5501:disabled {
+    opacity: 0.5;
+    cursor: default;
+}
+.erro_password {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.erro_password h3 {
+    font-family: href;
+    font-weight: normal;
+    font-size: 18px;
+    color: #27ae60;
+    opacity: 0.75;
+}
+
+.error6 h3 {
+    color: #d62e2e!important;
+}
+.email_change_5501 span {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    color: #888;
+    font-family: Droid Arabic Kufi;
+    margin-top: -150px;
+}
+
+.email_change_5501 p {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-family: tahoma;
+    font-size: 20px;
+    margin-top: -100px;
+    color: #bdc3c7;
+}
+
+input.emailop_textfol {
+    position: absolute;
+    margin-left: 335px;
+    margin-top: -50px;
+    width: 250px;
+    height: 25px;
+    padding: 10px;
+    padding-right: 20px;
+    font-size: 15px;
+    text-align: right;
+    font-family: Droid Arabic Naskh,sans-serif;
+    border: 2px solid #ddd;
+    background: #fff;
+    border-radius: 100px;
+}
+
+button.subuemail_5501 {
+    position: absolute;
+    width: 285px;
+    height: 45px;
+    font-family: Droid Arabic Kufi;
+    font-size: 15px;
+    background: #3498db;
+    color: #fff;
+    border: none;
+    margin-left: 335px;
+    cursor: pointer;
+    border-radius: 100px;
+    margin-top: 25px;
+}

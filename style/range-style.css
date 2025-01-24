@@ -1,0 +1,373 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    outline: none;
+}
+.container {width: 1100px;margin: 0 auto;}
+body {
+    background: linear-gradient(130deg, #543958 0%,#a06060 25%,#bea27b 50%,#9ca898 75%,#506d8d 100%) no-repeat center center fixed;
+    background-size: cover;
+}
+.ripple {
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.4);
+  transform: scale(0);
+  position: absolute;
+  opacity: 1;
+}
+.rippleEffect {
+    animation: rippleDrop .6s linear;
+}
+
+@keyframes rippleDrop {
+  100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+.signup_form {
+    width: 450px;
+    height: 600px;
+    background: rgba(0, 0, 0, .5);
+    margin-top: 150px;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: .3s;
+}
+.menu-bottom {
+    position: absolute;
+    bottom: 0;
+    height: 115px;
+    width: 100%;
+    z-index: 999;
+}
+.menu-bottom-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top,rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0));
+}
+.footer {
+    z-index: 99999;
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    bottom: 0;
+    margin-bottom: -100px;
+	display: none;
+}
+.footer-bottom {
+    height: 100%;
+    background: #404040;
+}
+.logo {
+    margin-top: -46px;
+}
+
+.right_description {
+    position: absolute;
+    margin-top: 85px;
+    right: 0;
+    margin-right: 13%;
+    opacity: .75;
+}
+
+.cetech-logo {
+    width: 50px;
+    height: 25px;
+    margin-left: 8px;
+    margin-bottom: -5px;
+}
+
+.right-copy {
+    font-size: 25px;
+    font-family: Tahoma;
+    color: #fff;
+}
+
+.left-copy {
+    color: #fff;
+    font-size: 25px;
+    font-family: Tahoma;
+}
+
+.left_discreption {
+    position: absolute;
+    left: 0;
+    margin-top: 85px;
+    margin-left: 13%;
+    opacity: .75;
+}
+#logo-img {
+    position: absolute;
+    width: 65px;
+    margin-top: 68px;
+    margin-left: -20px;
+    opacity: .75;
+}
+.button_info {
+    margin-left: -24px;
+}
+.cemailogin {display: block!important;position: absolute;width: 367px;height: 45px;border-radius: 100px;padding-right: 10px;padding-left: 9px;border: none;font-family: Droid Arabic Kufi;margin-left: 66px;margin-top: 433px;text-align: center;color: #fff;background: #404040;cursor: pointer;}
+
+.firstname {
+    display: block!important;
+    position: absolute;
+    width: 153px;
+    height: 45px;
+    border-radius: 100px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background: rgba(255, 255, 255, 0.25);
+    border: none;
+    font-family: Droid Arabic Naskh,sans-serif;
+    margin-left: 262px;
+    margin-top: 110px;
+    text-align: center;
+    color: #fff;
+}
+
+.lastnamer {
+    display: block;
+    position: absolute;
+    width: 153px;
+    height: 45px;
+    border-radius: 100px;
+    padding-right: 10px;
+    padding-left: 9px;
+    background: rgba(255, 255, 255, 0.25);
+    border: none;
+    font-family: Droid Arabic Naskh,sans-serif;
+    margin-left: 65px;
+    margin-top: 110px;
+    text-align: center;
+    color: #fff;
+}
+.button_info input::-webkit-input-placeholder {
+    color: rgba(255, 255, 255, 0.5);
+}
+.buttlog_info input::-webkit-input-placeholder {
+    color: rgba(255, 255, 255, 0.5);
+}
+.phonenumb {
+    display: block!important;
+    position: absolute;
+    width: 350px;
+    height: 45px;
+    border-radius: 100px;
+    padding-right: 10px;
+    padding-left: 9px;
+    background: rgba(255, 255, 255, 0.25);
+    border: none;
+    font-family: Droid Arabic Naskh,sans-serif;
+    margin-left: 65px;
+    margin-top: 180px;
+    text-align: center;
+    color: #fff;
+}
+
+.usernamer {
+    display: block!important;
+    position: absolute;
+    width: 350px;
+    height: 45px;
+    border-radius: 100px;
+    padding-right: 10px;
+    padding-left: 9px;
+    background: rgba(255, 255, 255, 0.25);
+    border: none;
+    font-family: Droid Arabic Naskh,sans-serif;
+    margin-left: 65px;
+    margin-top: 250px;
+    text-align: center;
+    color: #fff;
+}
+.subemailrang {
+    display: block!important;
+    position: absolute;
+    width: 367px;
+    height: 45px;
+    border-radius: 100px;
+    padding-right: 10px;
+    padding-left: 9px;
+    border: none;
+    font-family: Droid Arabic Kufi;
+    margin-left: 66px;
+    margin-top: 320px;
+    text-align: center;
+    color: #fff;
+    background: #d3394c;
+    cursor: pointer;
+	transition: .3s;
+}
+.subemailrang:hover {
+    background: #c3394c;
+}
+button.subemailrang:disabled {
+    cursor: default;
+    background: #c35966;
+}
+.header_range img {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    margin-top: -125px;
+    margin-left: 510px;
+}
+.header_range {
+    position: absolute;
+}
+.buttlog_info {
+    display: none;
+    margin-top: -140px;
+    margin-left: -24px;
+}
+span.or {
+    position: absolute;
+    font-family: verdana;
+    color: #fff;
+    margin-top: 390px;
+    width: 450px;
+    margin-left: 25px;
+}
+.cemailogin img {
+    width: 35px;
+    margin-bottom: -6px;
+    margin-right: 5px;
+}
+.right_borderform {
+    position: absolute;
+    width: 150px;
+    height: 1px;
+    background: rgba(255, 255, 255, .5);
+    margin-left: 283px;
+    margin-top: 400px;
+}
+.left_borderform {
+    height: 1px;
+    width: 150px;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.5);
+    margin-top: 400px;
+    margin-left: 65px;
+}
+.password {
+    display: block!important;
+    position: absolute;
+    width: 350px;
+    height: 45px;
+    border-radius: 100px;
+    padding-right: 10px;
+    padding-left: 9px;
+    background: rgba(255, 255, 255, 0.25);
+    border: none;
+    font-family: Droid Arabic Naskh,sans-serif;
+    margin-left: 65px;
+    margin-top: 320px;
+    text-align: center;
+    color: #fff;
+}
+
+.register_fottertool {
+    position: absolute;
+    margin-top: 70px;
+}
+.right_borderform {
+    position: absolute;
+    width: 150px;
+    height: 1px;
+    background: rgba(255, 255, 255, .5);
+    margin-left: 283px;
+    margin-top: 400px;
+}
+.loginsignup {position: absolute;}
+
+.signupclick {
+    position: absolute;
+    width: 450px;
+    margin-top: 35px;
+    cursor: pointer;
+    text-align: center;
+    display: none;
+}
+
+.signupclick h3 {
+    font-family: Droid Arabic Kufi;
+    color: #fff;
+    cursor: pointer;
+}
+
+.loginclicko {position: absolute;width: 450px;margin-top: 35px;cursor: pointer;text-align: center;}
+
+.loginclicko h3 {
+    font-family: Droid Arabic Kufi;
+    color: #fff;
+    cursor: pointer;
+}
+.firstname_error {position: absolute;margin-top: 110px;margin-left: 465px;width: 226px;padding-top: 9px;padding-bottom: 9px;padding-right: 15px;padding-left: 15px;background: #bf4254;border: 2px solid #fff;border-bottom-right-radius: 51px;border-top-right-radius: 50px;border-left: none;text-align: center;}
+
+.firstname_error p {
+    color: #fff;
+    font-family: href;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.firstname_error a {
+    position: absolute;
+    transform: rotate(-90deg);
+    color: #bf4254;
+    font-size: 22px;
+    cursor: default;
+    margin-left: -146px;
+    margin-top: -24px;
+    user-select: none;
+}
+.lastname_error,.number_error,.username_error,.password_error {
+    position: absolute;
+    margin-left: -272px;
+    width: 226px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background: #bf4254;
+    border: 2px solid #fff;
+    border-bottom-left-radius: 51px;
+    border-top-left-radius: 50px;
+    border-right: none;
+    text-align: center;
+}
+.lastname_error {
+    margin-top: 110px;
+}
+.lastname_error p,.number_error p,.username_error p,.password_error p {
+    color: #fff;
+    font-family: href;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.lastname_error a,.number_error a,.username_error a,.password_error a {
+    position: absolute;
+    transform: rotate(90deg);
+    color: #bf4254;
+    font-size: 22px;
+    cursor: default;
+    margin-left: 123px;
+    margin-top: -24px;
+    user-select: none;
+}
+
+.number_error {margin-top: 180px;}
+
+.username_error {
+    margin-top: 250px;
+}
+
+.password_error {
+    margin-top: 320px;
+}

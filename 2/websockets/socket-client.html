@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		* { margin:0; padding:0; font-size:11px; font-family:arial; color:#444; }
+		body { padding:20px; }
+		#message-list { list-style-type:none; width:300px; height:300px; overflow:auto; border:1px solid #999; padding:20px; }
+		#message-list li { border-bottom:1px solid #ccc; padding-bottom:2px; margin-bottom:5px; }
+		code { font-family:courier; background:#eee; padding:2px 4px; }
+	</style>
+	<script src="http://cdn.socket.io/stable/socket.io.js"></script>
+<script>
+		
+</script>
+</head>
+<body>
+	
+	<p>Messages will appear below (and in the console).</p><br />
+	<ul id="message-list"></ul>
+	<ul style="margin:20px 0 0 20px;">
+		<li>Type <code>socket.disconnect()</code> to disconnect</li>
+		<li>Type <code>socket.connect()</code> to reconnect</li>
+		<li>Type <code>sendMessageToServer('Your Message')</code> to send a message to the server</li>
+	</ul>
+	
+</body>
+</html>
